@@ -1,8 +1,15 @@
 {
   "scripts": {
-    "prestart": "node -e \"if (parseInt(process.versions.node) >= 20) { console.error('❌ Node.js v' + process.versions.node + ' is not supported by Docusaurus 3.x.\\n⚠️  Run: nvm use 18.20.4'); process.exit(1); }\"",
+    "check-node": "node -e \"const v=parseInt(process.versions.node.split('.')[0]); if (v >= 20) { console.error('\\n❌ Node.js v'+process.versions.node+' is NOT supported by Docusaurus 3.x.\\n⚠️ Please run: nvm use 18.20.4\\n'); process.exit(1); }\"",
+
+    "prestart": "npm run check-node",
+    "prebuild": "npm run check-node",
+
     "start": "docusaurus start",
-    "prebuild": "node -e \"if (parseInt(process.versions.node) >= 20) { console.error('❌ Node.js v' + process.versions.node + ' is not supported by Docusaurus 3.x.\\n⚠️  Run: nvm use 18.20.4'); process.exit(1); }\"",
-    "build": "docusaurus build"
+    "build": "docusaurus build",
+    "serve": "docusaurus serve",
+    "deploy": "docusaurus deploy",
+    "swizzle": "docusaurus swizzle",
+    "clear": "docusaurus clear"
   }
 }
