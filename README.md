@@ -1,7 +1,21 @@
-# teos-pharaoh-portal
+# Teos-Pharaoh-Portal
 “The Pharaoh Portal — the central gateway of the TEOS Egypt ecosystem, unifying blockchain governance, identity, smart-city access, and national Web3 services.”
 # 🏛️ TEOS Pharaoh Portal  
 ### The National Gateway of the TEOS Egypt Blockchain Ecosystem
+<!-- Sovereign License Badge -->
+![License: TEOS Egypt Sovereign](https://img.shields.io/badge/License-TEOS%20Egypt%20Sovereign-blue?style=for-the-badge)
+
+<!-- Contact Badge -->
+[![Contact: ayman@teosegypt.com](https://img.shields.io/badge/Contact-ayman%40teosegypt.com-green?style=for-the-badge)](mailto:ayman@teosegypt.com)
+
+<!-- Website Badge -->
+[![Portal: pharaoh.teosegypt.com](https://img.shields.io/badge/Portal-pharaoh.teosegypt.com-gold?style=for-the-badge)](https://pharaoh.teosegypt.com)
+
+<!-- Build Status (optional, if using CI/CD) -->
+![Build Status](https://img.shields.io/badge/Build-Passing-success?style=for-the-badge)
+
+<!-- Version Badge -->
+![Version](https://img.shields.io/badge/Version-1.0.0-purple?style=for-the-badge)
 
 The **TEOS Pharaoh Portal** is the public entry point for the entire TEOS Egypt blockchain empire.  
 It combines **civil infrastructure, digital identity, DeFi, smart-city services, mapping, governance, and Pi-network integrations** into a single unified national portal.
