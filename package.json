@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "prestart": "node -e \"if (parseInt(process.versions.node) >= 20) { console.error('❌ Node.js v' + process.versions.node + ' is not supported by Docusaurus 3.x.\\n⚠️  Run: nvm use 18.20.4'); process.exit(1); }\"",
+    "start": "docusaurus start",
+    "prebuild": "node -e \"if (parseInt(process.versions.node) >= 20) { console.error('❌ Node.js v' + process.versions.node + ' is not supported by Docusaurus 3.x.\\n⚠️  Run: nvm use 18.20.4'); process.exit(1); }\"",
+    "build": "docusaurus build"
+  }
+}
