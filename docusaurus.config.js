@@ -1,5 +1,4 @@
 // docusaurus.config.js
-/** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Teos Pharaoh Portal',
   tagline: 'Comprehensive documentation for the TEOS ecosystem',
