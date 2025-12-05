@@ -1,7 +1,9 @@
 # Teos-Pharaoh-Portal
 “The Pharaoh Portal — the central gateway of the TEOS Egypt ecosystem, unifying blockchain governance, identity, smart-city access, and national Web3 services.”
+
 # 🏛️ TEOS Pharaoh Portal  
 ### The National Gateway of the TEOS Egypt Blockchain Ecosystem
+
 <!-- Sovereign Protected Badge -->
 ![Sovereign Protected](https://img.shields.io/badge/Sovereign-Protected-red?style=for-the-badge&logo=shield)
 
@@ -14,10 +16,13 @@
 <!-- Portal Badge -->
 [![Portal: pharaoh.teosegypt.com](https://img.shields.io/badge/Portal-pharaoh.teosegypt.com-blue?style=for-the-badge&logo=google-chrome)](https://pharaoh.teosegypt.com)
 
-The **TEOS Pharaoh Portal** is the public entry point for the entire TEOS Egypt blockchain empire.  
-It combines **civil infrastructure, digital identity, DeFi, smart-city services, mapping, governance, and Pi-network integrations** into a single unified national portal.
+---
 
-This project powers the landing experience of **pharaoh.teosegypt.com**.
+## 📖 Overview
+The **TEOS Pharaoh Portal** is the public entry point for the entire TEOS Egypt blockchain empire.  
+It combines **civil infrastructure, digital identity, DeFi, smart-city services, mapping, governance, and Pi-network integrations** into a single unified national portal.  
+
+This project powers the landing experience of **[pharaoh.teosegypt.com](https://pharaoh.teosegypt.com)**.
 
 ---
 
@@ -108,13 +113,19 @@ All under **one Egyptian blockchain empire**.
   BRANDING.md
   ARCHITECTURE.md
   API_REFERENCE.md
+  ROADMAP.md
+  CHANGELOG.md
+  SECURITY.md
+  TRADEMARKS.md
+  CODE_OF_CONDUCT.md
+  CONTRIBUTING.md
 README.md
+LICENSE
 ```
 
 ---
 
 ## 🔗 Ecosystem Integrations
-
 This portal links directly into the following modules:
 
 - **Elmahrosa Blockchain**  
@@ -133,7 +144,7 @@ This portal links directly into the following modules:
 
 ### 1. Clone  
 ```bash
-git clone https://github.com/Elmahrosa/teos-pharaoh-portal
+git clone https://github.com/Elmahrosa/Teos-Pharaoh-Portal
 ```
 
 ### 2. Install  
@@ -153,6 +164,26 @@ vercel --prod
 
 ---
 
+## 🌐 Founder
+**Ayman Seif**  
+Founder & CEO — TEOS Egypt / Elmahrosa International  
+Architect of compliance-first, bank-facing crypto gateway platforms  
+Driving global deployment, productization, and civic-first blockchain expansion  
+
+---
+
+## 📬 Contact
+For approvals, licensing, or partnership inquiries:  
+
+**Ayman Seif**  
+✉️ Email: [ayman@teosegypt.com](mailto:ayman@teosegypt.com)  
+🌐 Website: [pharaoh.teosegypt.com](https://pharaoh.teosegypt.com)  
+
+---
+
 ## © TEOS Egypt  
-The All-In-One Blockchain Empire  
-pharaoh.teosegypt.com
+**The All-In-One Blockchain Empire**  
+[pharaoh.teosegypt.com](https://pharaoh.teosegypt.com)
+```
+
+---
