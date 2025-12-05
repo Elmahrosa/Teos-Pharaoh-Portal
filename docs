@@ -1,17 +1,81 @@
-/docs
-  /introduction
-  /sovereign-legal
-  /architecture
-  /identity
-  /bankchain
-  /civicchain
-  /smart-city
-  /apis
-  /security
-  /deployment
-  /operations
-  /ai-automation
-  /governance
-  /branding
-  /roadmap
-  /changelog
+docs
+├── introduction
+│   ├── OVERVIEW.md
+│   ├── VISION.md
+│   ├── GLOSSARY.md
+│   └── FAQ.md
+│
+├── sovereign-legal
+│   ├── LICENSE.md
+│   ├── SOVEREIGN-DECREE.md
+│   ├── ACCESS-RESTRICTIONS.md
+│   ├── DATA-SOVEREIGNTY.md
+│   ├── COMPLIANCE-OBLIGATIONS.md
+│   └── AUDIT-GUIDELINES.md
+│
+├── architecture
+│   ├── HIGH-LEVEL.md
+│   ├── BANKCHAIN-ROUTING.md
+│   ├── CIVICCHAIN-FLOW.md
+│   ├── MULTI-CHAIN-EXECUTION.md
+│   ├── PI-ECOSYSTEM-INTEGRATION.md
+│   ├── DATA-FLOW-DIAGRAMS.md
+│   └── INFRASTRUCTURE-MAPS.md
+│
+├── identity
+│   ├── IDENTITY-FRAMEWORK.md
+│   ├── WALLET-CONNECT.md
+│   ├── CITIZEN-ACCESS.md
+│   ├── INSTITUTION-ACCESS.md
+│   ├── AUTHENTICATION-FLOWS.md
+│   └── KYC-AML-PROCEDURES.md
+│
+├── bankchain
+│   ├── OVERVIEW.md
+│   ├── FIAT-CRYPTO-RAILS.md
+│   ├── ISO20022-PIPELINES.md
+│   ├── SETTLEMENT-FLOWS.md
+│   ├── COMPLIANCE-ENGINE.md
+│   ├── AI-MONITORING.md
+│   └── API-GUIDE.md
+│
+├── civicchain
+│   ├── GOVERNANCE-MODEL.md
+│   ├── VOTING-PROTOCOL.md
+│   ├── PUBLIC-RECORDS.md
+│   ├── CIVIC-MIXER.md
+│   └── CONSTITUTION-INTEGRATION.md
+│
+├── smart-city
+│   ├── PI-SMART-CITY.md
+│   ├── PITAXI.md
+│   ├── ELMAHROSA-MAP.md
+│   ├── GEO-IOT.md
+│   └── CITY-DASHBOARDS.md
+│
+├── apis
+│   ├── INTRODUCTION.md
+│   ├── AUTHENTICATION.md
+│   ├── RATE-LIMITS.md
+│   │
+│   ├── rest
+│   │   ├── BANKCHAIN-REST.md
+│   │   ├── CIVICCHAIN-REST.md
+│   │   ├── IDENTITY-REST.md
+│   │   └── ADMIN-REST.md
+│   │
+│   ├── websocket
+│   │   ├── STREAMS.md
+│   │   └── EVENT-TYPES.md
+│   │
+│   └── blockchain
+│       ├── SOLANA-PROGRAMS.md
+│       ├── PI-NETWORK.md
+│       └── ELMAHROSA-CHAIN.md
+│
+├── security
+│   ├── SECURITY-MODEL.md
+│   ├── ENCRYPTION.md
+│   ├── THREAT-MODEL.md
+│   ├── INCIDENT-RESPONSE.md
+│   ├── PENETRATION-GUIDELINES
