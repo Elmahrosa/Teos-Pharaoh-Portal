@@ -1,5 +1,7 @@
-// sidebars.js
-module.exports = {
+// sidebars.ts
+import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
+
+const sidebars: SidebarsConfig = {
   docsSidebar: [
     {
       type: 'category',
@@ -200,3 +202,5 @@ module.exports = {
     },
   ],
 };
+
+export default sidebars;
