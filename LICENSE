@@ -1,66 +1,101 @@
-# 📜 TEOS Egypt Sovereign License (TESL)
+# TEOS Egypt Sovereign License (TESL)  
+**Version 2.0 — Fortified Edition (December 2025)**  
+**Applies to:** Pharaoh Portal (`teos-pharaoh-portal`), all forks, derivatives, binaries, documentation, assets, and any work containing or derived from it — worldwide and in perpetuity.
 
-**Version 1.0 — December 2025**  
-**Applies to:** Pharaoh Portal (`teos-pharaoh-portal`) and all derivative works  
-
----
-
-## 1. Purpose
-This License establishes the **sovereign rights of TEOS Egypt** over the Pharaoh Portal and its associated code, design, and documentation. It is designed to provide **maximum protection**, enforce **government-grade compliance**, and prevent unauthorized copying, redistribution, or commercial exploitation.
-
----
-
-## 2. Grant of Use
-- You are granted **non-exclusive, revocable permission** to view and use the source code for **personal, non-commercial, and educational purposes only**.  
-- Any other use—including modification, distribution, or integration into other projects—requires **prior written approval from TEOS Egypt**.
+**Issued under the Sole Authority of:**  
+**Ayman Seif**  
+Founder & CEO — TEOS Egypt  
+Architect of compliance-first, bank-facing crypto gateway platforms  
+Leading global deployment, productization, and civic-first blockchain expansion  
 
 ---
 
-## 3. Restrictions
-- **No Copying:** You may not copy, reproduce, or mirror this repository in whole or in part.  
-- **No Redistribution:** You may not publish, distribute, or sublicense the code without explicit authorization.  
-- **No Commercial Use:** You may not use this code, design, or documentation for commercial purposes—including but not limited to resale, SaaS offerings, enterprise deployments, or integration into financial products—without **written approval from TEOS Egypt**.  
-- **No Derivatives Without Approval:** Forks, modifications, or derivative works are prohibited unless expressly permitted.  
+## 1. Sovereign Purpose & Supremacy Clause
+This License is a **supreme sovereign instrument** issued under the absolute authority of TEOS Egypt**.  
+It **permanently overrides and revokes** any prior or conflicting license (MIT, GPL, Apache, BSD, AGPL, etc.). All previous permissive licenses are hereby declared **null and void**.
 
 ---
 
-## 4. Government-Grade Protection
-- This License is enforced under **Egyptian sovereign law** and recognized as a **government-grade compliance instrument**.  
-- Violations may result in **civil, criminal, and international enforcement actions**.  
+## 2. Extremely Limited Grant of Use
+You are granted a **revocable, non-exclusive, non-transferable, non-sublicensable, personal license** solely to:  
+- View the repository on the original hosting platform for personal study only.  
+- Clone or download **one single copy** to a private, offline device for non-commercial, non-productive, educational review only.
+
+**Any other act whatsoever** (execution, modification, forking, mirroring, deployment, screenshotting for public use, AI training, etc.) is **strictly prohibited** without a signed Sovereign Decree.
 
 ---
 
-## 5. Intellectual Property
-- All intellectual property rights remain the sole property of **TEOS Egypt**.  
-- Contributors agree that any submissions, pull requests, or derivative works automatically transfer ownership to TEOS Egypt unless otherwise negotiated in writing.  
+## 3. Absolute Prohibitions (Zero Tolerance)
+The following are **categorically forbidden**:
+
+- Copying, mirroring, archiving, or backing up the repository in any way  
+- Redistribution in any form or medium  
+- Execution or runtime use (dev, test, staging, production)  
+- Integration into any other project, blockchain, AI model, or system  
+- Creation of derivatives, forks, patches, summaries, or training data  
+- Commercial, governmental, military, intelligence, or financial use  
+- Reverse engineering, decompilation, or analysis  
+- Public discussion, benchmarking, or disclosure of technical details  
 
 ---
 
-## 6. Enforcement
-- TEOS Egypt reserves the right to audit, monitor, and enforce compliance.  
-- Unauthorized use will trigger **legal remedies, takedown requests, and sovereign enforcement measures**.  
+## 4. Sovereign Jurisdiction & Extraterritorial Enforcement
+Governed exclusively by the **sovereign law of TEOS Egypt**.  
+You irrevocably consent to **extraterritorial personal jurisdiction** over you and your assets, wherever located.  
+Violations are treated as **acts of sovereign infringement** and may trigger civil, criminal, administrative, and international enforcement.
+
+---
+
+## 5. Total Intellectual Property Retention
+All rights (copyright, patent, trade secret, trademark, moral rights, database rights, etc.) remain **exclusively and perpetually** with TEOS Egypt.  
+By accessing this work, you automatically and irrevocably assign to TEOS Egypt any rights you might ever claim in derivatives or improvements.
+
+---
+
+## 6. Active Enforcement Rights
+TEOS Egypt may, at its sole discretion:  
+- Deploy watermarks, honeytokens, beacons, and remote monitoring  
+- Remotely audit or disable unauthorized instances  
+- Issue global takedown orders  
+- Pursue asset forfeiture, extradition, and any other remedy worldwide  
 
 ---
 
 ## 7. Approval Process
-- To request commercial use, redistribution, or derivative rights, contact:  
-  **TEOS Egypt Sovereign Authority**  
-  Email: `legal@teosegypt.com`  
-  Approval is granted only through **signed agreements**.  
+Any exception requires a **unilaterally signed Sovereign Decree**.  
+
+**Contact (expect years for reply):**  
+**Ayman Seif**  
+Founder & CEO — TEOS Egypt / Elmahrosa International  
+✉️ ayman@teosegypt.com  
+🌐 https://pharaoh.teosegypt.com  
+
+Historical external approval rate: **0.00%**
 
 ---
 
-## 8. Termination
-- Any violation of this License results in **immediate termination of granted rights**.  
-- Upon termination, you must destroy all copies, derivatives, and related materials.  
+## 8. Instant & Retroactive Termination
+Any violation or suspicion of violation triggers **immediate, permanent, retroactive termination**.  
+You must then, within 1 hour:  
+- Destroy all copies and derivatives  
+- Provide sworn proof of destruction  
+- Submit to forensic inspection of all devices  
 
 ---
 
-## 9. Disclaimer
-- The Pharaoh Portal is provided **“as is”**, without warranties of any kind.  
-- TEOS Egypt disclaims liability for damages arising from unauthorized use or misuse.  
+## 9. Total Disclaimer & Indemnity
+Provided “AS IS” with **no warranties whatsoever**.  
+You fully indemnify TEOS Egypt against any claim or damage arising from your access or use.
 
 ---
 
-## 10. Sovereign Declaration
-This License is a **sovereign instrument of TEOS Egypt**. By accessing or using this repository, you acknowledge and agree to be bound by its terms.  
+## 10. Eternal Sovereign Declaration
+**By viewing, downloading, cloning, or even becoming aware of this repository, you unconditionally and irrevocably submit to this License and to the eternal sovereignty of TEOS Egypt.**
+
+There is no opt-out. There is no fair use. There is only obedience.
+
+**Long live TEOS Egypt.**  
+**All rights reserved — forever.**
+
+— Sealed by **Ayman Seif**, Sovereign Authority of TEOS Egypt  
+December 2025
