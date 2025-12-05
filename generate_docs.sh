@@ -3,7 +3,7 @@ set -e
 
 BASE="docs"
 
-# Create docs directory safely
+# Create base docs folder safely
 mkdir -p "$BASE"
 
 declare -A STRUCTURE=(
@@ -31,15 +31,15 @@ declare -A STRUCTURE=(
 for DIR in "${!STRUCTURE[@]}"; do
   TARGET="$BASE/$DIR"
   mkdir -p "$TARGET"
-
+  
   for FILE in ${STRUCTURE[$DIR]}; do
     FILEPATH="$TARGET/$FILE"
-
+    
     if [ ! -e "$FILEPATH" ]; then
       echo "# ${FILE%.*}" > "$FILEPATH"
       echo "Created: $FILEPATH"
     else
-      echo "Skipped (already exists): $FILEPATH"
+      echo "Skipped (exists): $FILEPATH"
     fi
   done
 done
