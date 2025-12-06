@@ -1,7 +1,3 @@
-Here is the **clean, final, polished README** for **Teos-Pharaoh-Portal**, with no duplicates, no repetition, no noise — *perfect and ready to paste into GitHub*.
-
----
-
 # 🏛️ **TEOS Pharaoh Portal**
 
 ### **The National Gateway of the TEOS Egypt Blockchain Ecosystem**
