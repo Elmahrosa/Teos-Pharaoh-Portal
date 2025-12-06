@@ -3,6 +3,7 @@
 
 # 🏛️ TEOS Pharaoh Portal  
 ### The National Gateway of the TEOS Egypt Blockchain Ecosystem
+Part of the TEOS Egypt Blockchain Ecosystem — a unified civil, financial, and smart-city infrastructure powering digital banking, civic governance, DeFi, Pi integration, and national blockchain services.
 
 <!-- Sovereign Protected Badge -->
 ![Sovereign Protected](https://img.shields.io/badge/Sovereign-Protected-red?style=for-the-badge&logo=shield)
