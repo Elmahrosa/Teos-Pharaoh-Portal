@@ -1,9 +1,17 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elmahrosa/Teos-Pharaoh-Portal/main/assets/banner.png" width="780" alt="TEOS Pharaoh Portal Banner"/>
+  <!-- IMPORTANT: Ensure your folder is named 'assets' and file is 'banner.png' -->
+  <img src="./assets/banner.png" width="100%" alt="TEOS Pharaoh Portal Banner"/>
 </p>
 
-<h2 align="center">🏛 TEOS Pharaoh Portal</h2>
+<h1 align="center">🏛 TEOS Pharaoh Portal</h1>
+
 <p align="center">
-  The Official Gateway of the TEOS Blockchain Empire  
+  The Official Gateway of the TEOS Blockchain Empire<br>
   — Identity, Finance, Governance, AI, and Smart-City Infrastructure.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TEOS-BLOCKCHAIN%20EMPIRE-black?style=for-the-badge&labelColor=232323" alt="TEOS Empire">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge" alt="Status Active">
+  <img src="https://img.shields.io/badge/LICENSE-APACHE%202.0-orange?style=for-the-badge" alt="License">
 </p>
