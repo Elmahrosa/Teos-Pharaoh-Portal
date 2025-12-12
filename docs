@@ -79,3 +79,49 @@ docs
 │   ├── THREAT-MODEL.md
 │   ├── INCIDENT-RESPONSE.md
 │   ├── PENETRATION-GUIDELINES
+---
+id: teos-pitch-deck
+title: TEOS Pharaoh Portal — Investor Pitch
+sidebar_label: Pitch Deck
+---
+
+This page is a **lightweight entry point** to the TEOS Pharaoh Portal investor story.  
+The **canonical, full text deck** lives at the repository root in `TEOS-Pitch-Deck.md`.
+
+## Overview
+
+**TEOS Pharaoh Portal** is Egypt’s sovereign digital gateway for:
+
+- Civic and financial identity
+- Banking and settlement (TEOS Bankchain)
+- Smart-city and mobility services (Pi Smart City, PiTaxi)
+- Civic governance and compliance (CivicChain, AI Auditor)
+
+It unifies these into a **single, policy-aware Web3 portal** built for Egypt, with global reach.
+
+## Who this page is for
+
+- **Investors & funds** evaluating TEOS as a sovereign digital infrastructure play  
+- **Strategic partners** (banks, telcos, smart-city operators, Pi ecosystem projects)  
+- **Policy & regulatory stakeholders** exploring compliant blockchain rails for Egypt and MENA  
+
+## Quick Links
+
+- **Live Pharaoh Portal demo**: https://pharaoh.teosegypt.com  
+- **Full text pitch deck (canonical)**:  
+  `TEOS-Pharaoh-Portal/TEOS-Pitch-Deck.md`  
+  or view via GitHub:  
+  https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TEOS-Pitch-Deck.md  
+- **TEOS Egypt Sovereign License (TESL)**:  
+  `TEOS-Pharaoh-Portal/TESL.md`
+
+## TL;DR Value Proposition
+
+- **Sovereign by design**: Egypt-first, jurisdiction-aware blockchain stack aligned with local regulation.  
+- **One portal for everything**: Banking, identity, smart cities, and governance in a single UX.  
+- **Global hub positioning**: Egypt as a digital civilization and Web3 bridge between GCC, Africa, and Europe.
+
+For deeper detail (roadmap, KPIs, ecosystem map, and technical architecture), refer to:
+
+- `TEOS-Pitch-Deck.md` (root, canonical investor narrative)  
+- `ARCHITECTURE.md` and `ROADMAP.md` in `/docs` for the technical and delivery view.
