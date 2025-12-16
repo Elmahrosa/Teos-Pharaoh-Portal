@@ -3,6 +3,11 @@
 
 > Egypt’s sovereign digital gateway for banking, identity, and smart cities.  
 > مبني للمصريين، بقيادة مصر، وبطموح عالمي.
+## 🌱 SDG & Impact Mapping
+
+See how TEOS Pharaoh Portal modules align with UN Sustainable Development Goals:
+
+[SDG Mapping — PDF / Markdown](./docs/SDG-Mapping.md)
 
 ---
 
