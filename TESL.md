@@ -1,123 +1,109 @@
-## 🇪🇬 TEOS Egypt Sovereign License (TESL)
+# TEOS Egypt Software License (TESL) — Pharaoh Portal
 
-**Version 2.3 — Final Edition**
-> ⚠️ **COPYRIGHT: NO_REPRO, NO_FORK, NO_REPUB**
-> This repository is **proprietary under TESL** and **cannot** be forked, mirrored, or reproduced.
+![License](https://img.shields.io/badge/license-TESL%20%2F%20Non--Commercial-red)
+![Status](https://img.shields.io/badge/status-Active-blue)
+![Governance](https://img.shields.io/badge/governance-Human%20Final%20Authority-gold)
 
-[![Strictly Proprietary](https://img.shields.io/badge/Strictly%20Proprietary-TEOS%20Sovereign%20License-ff0000?style=for-the-badge)](https://github.com/your-repo/license)
-
-| Detail | Information |
-| :--- | :--- |
-| **Effective Date** | December 8, 2025 |
-| **Issuer** | Elmahrosa International for General Import, Export and Commercial Agencies |
-| **Founder & CEO** | Ayman Seif |
-| **Official Portal** | [https://pharaoh.teosegypt.com](https://pharaoh.teosegypt.com) |
-
-This repository and all associated source code, binaries, documentation, designs, branding, and intellectual property are the **exclusive property** of Elmahrosa International and TEOS Egypt.
-
-🛑 **This software is NOT open source.**
+**Copyright © 2025 Elmahrosa International**  
+**Status:** Proprietary / Source-Available (Founder-Only Usage)
 
 ---
 
-### 1. License Authority
+## 1. Purpose
 
-This TEOS Egypt Sovereign License (TESL) supersedes and replaces any previous license (including MIT, Apache, GPL, BSD, or any other permissive license) ever applied to this repository or its contents.
+The TEOS Egypt Software License (TESL) governs all software, smart contracts, AI systems, documentation, and infrastructure published under **Teos-Pharaoh-Portal**.
 
-All rights not expressly granted herein are reserved by Elmahrosa International.
-
----
-
-### 2. Limited Right of Access
-
-You are granted a **revocable, non-exclusive, non-transferable, non-sublicensable license** solely for:
-
-* **Private Viewing:** To view the repository contents privately.
-* **Educational Review:** To download a single copy for personal, non-commercial review and educational inspection purposes only.
-
-**No other rights are granted.**
+This software exists to support **civic-first digital infrastructure**, not unrestricted commercial exploitation.
 
 ---
 
-### 3. Strictly Prohibited Activities
+## 2. Founder Rights
 
-Without prior written authorization from an authorized officer of Elmahrosa International, you may **NOT**:
+Full rights to **use, modify, deploy, and monetize** this software are reserved for:
 
-* **Copying/Redistribution:** Copy, redistribute, mirror, fork, or archive any part of this work.
-* **Execution/Deployment:** Execute, deploy, host, or run the software in any environment.
-* **Modification:** Modify, adapt, translate, reverse-engineer, decompile, or disassemble the software.
-* **Commercial Use:** Use the software or derived works in any commercial, governmental, or financial system.
-* **AI/ML Training:** Scrape, crawl, ingest, or utilize the material for training artificial intelligence, machine learning models, or data mining.
-* **Notice Alteration:** Remove or alter any copyright, trademark, or proprietary notices.
+- **Ayman Seif / Elmahrosa International**
+
+No restriction applies to the founder for any internal or external use.
 
 ---
 
-### 4. Ownership and Intellectual Property
+## 3. Grant of Limited Rights to Others
 
-All intellectual property rights, title, and interest remain the sole and exclusive property of Elmahrosa International and TEOS Egypt.
+All other parties are granted a **limited, revocable, non-commercial** license to:
 
-**No implied licenses are granted.**
-
----
-
-### 5. ⚖️ Governing Law & Jurisdiction
-
-This License shall be governed exclusively by the laws of the **Arab Republic of Egypt**.
-
-Any dispute arising out of or in connection with this License shall be submitted to the **exclusive jurisdiction** of the courts of **Cairo, Egypt**.
+- View and review source code
+- Fork for evaluation, testing, or research **only**
+- Propose improvements via pull requests
 
 ---
 
-### 6. Enforcement and Remedies
+## 4. Restrictions for Others
 
-Elmahrosa International reserves the full right to:
+Without prior written permission from **Elmahrosa International**, others may **NOT**:
 
-* Demand immediate cessation and deletion of any unauthorized copy.
-* Issue takedown notices under applicable laws (including DMCA equivalents).
-* Pursue all available civil and criminal remedies, including damages and injunctive relief.
-
----
-
-### 7. Authorization Requests
-
-All usage beyond Section 2 requires **explicit written permission**.
-
-| Contact Method | Detail |
-| :--- | :--- |
-| **Email** | 📧 ayman@teosegypt.com |
-| **Portal** | 🌐 [https://pharaoh.teosegypt.com](https://pharaoh.teosegypt.com) |
-
-> **Response Time:** Authorization requests are reviewed within 5 business days.
+- Use for commercial purposes
+- Deploy in production or revenue-generating systems
+- Resell, sublicense, or rebrand
+- Offer paid services based on this software
+- Remove copyright or license notices
 
 ---
 
-### 8. Termination
+## 5. Tokens & Digital Assets
 
-Any breach immediately terminates all rights granted under this License without notice. Upon termination, you must immediately destroy all copies in your possession.
+Any references to tokens, points, governance units, or digital assets:
 
----
-
-### 9. No Warranties (Disclaimer)
-
-The software and materials are provided **“AS IS”** without any warranty of any kind, express or implied, including, but not limited to, the implied warranties of merchantability or fitness for a particular purpose.
+- Are experimental utility or governance mechanisms
+- Do **NOT** represent investment offers or guaranteed returns
+- Are subject to jurisdictional regulation
 
 ---
 
-### 10. Severability & Survival
+## 6. AI & Governance Disclaimer
 
-If any provision of this License is held invalid or unenforceable, the remainder shall continue in full force and effect. Unenforceable terms shall be replaced by the closest enforceable equivalent that preserves the intent of this License.
+AI systems within TEOS Egypt:
+
+- Operate as decision-support tools only
+- Do not replace human or founder authority
+- May produce incomplete or incorrect outputs
+
+Final authority always resides with **Ayman Seif / Elmahrosa International**.
 
 ---
 
-### 11. Acceptance
+## 7. Compliance Responsibility
 
-By accessing, viewing, downloading, or otherwise using this repository, you **unconditionally accept and agree** to be bound by this License.
+Users are solely responsible for:
+
+- Legal compliance in their jurisdiction
+- Ethical and lawful use of the software
 
 ---
 
-**© 2025 Elmahrosa International — All Rights Reserved**
+## 8. Termination
 
-[https://pharaoh.teosegypt.com](https://pharaoh.teosegypt.com)
+Violation of this license results in **immediate termination** of rights granted herein. All usage must cease upon termination.
 
-Part of the TEOS Egypt Blockchain Ecosystem — a unified civil, financial, and smart-city infrastructure powering digital banking, civic governance, DeFi, Pi integration, and national blockchain services.
+---
 
-**
+## 9. No Warranty
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+
+---
+
+## 10. Governing Law
+
+This license is governed by the laws of **Cairo, Arab Republic of Egypt**.
+
+---
+
+## 11. Contact
+
+For commercial licensing, partnerships, or permissions:
+
+📧 ayman@teosegypt.com
+
+---
+
+> ⚠️ **Founder-only usage:** Full rights to use, deploy, modify, and monetize this software are reserved for **Ayman Seif / Elmahrosa International**. Any other use requires explicit written permission.
