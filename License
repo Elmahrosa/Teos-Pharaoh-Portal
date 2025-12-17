@@ -15,3 +15,12 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 4. Termination
    Any violation of these terms automatically terminates your rights under this license.
+## ⚖️ License & Governance
+
+- Source-available under **PolyForm Noncommercial 1.0.0** → see [LICENSE](./LICENSE).
+- Governed by **TEOS Egypt Sovereign License (TESL)** → see master [TESL.md](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md).
+- Commercial/production use requires written permission from **Ayman Seif / Elmahrosa International**.
+
+![License](https://img.shields.io/badge/license-PolyForm%20Noncommercial-red?style=for-the-badge)
+![TESL](https://img.shields.io/badge/governance-TESL%20Sovereign%20Authority-gold?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-Active-blue?style=for-the-badge)
