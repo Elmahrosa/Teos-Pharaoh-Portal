@@ -1,27 +1,54 @@
-# TEOS Egypt — Security Policy (ISO 27001 Aligned)
+# 🔒 Security & Compliance — TEOS Pharaoh Portal
 
-## Scope
-Applies to Pharaoh Portal, TEOS Egypt repos, and all connected services.
+The TEOS Pharaoh Portal is built with a **compliance-first architecture**, ensuring regulator alignment, audit readiness, and sovereign digital trust.
 
-## Objectives
-- Ensure confidentiality, integrity, and availability of data.
-- Enforce compliance with ISO 27001, GDPR, and Egyptian Sovereign Law.
+---
 
-## Controls
-- **Access Control:** Role-based, MFA enforced.
-- **Data Protection:** AES-256 encryption at rest, TLS 1.3 in transit.
-- **Audit Trails:** Immutable logs, AI-powered anomaly detection.
-- **Incident Response:** 24/7 monitoring, sovereign escalation protocol.
-- **Compliance:** Regular ISO audits, penetration testing, KYC/AML enforcement.
+## 🛡️ Security Principles
+- **Compliance-First**: TESL v2.0 enforced across all repos.  
+- **Encryption Everywhere**: TLS 1.3 in transit, AES-256 at rest.  
+- **Identity & Access**: MFA, OAuth2/OpenID Connect, role-based access control.  
+- **Audit Trails**: Immutable logs for all financial and civic transactions.  
+- **Zero Trust**: Continuous verification, least privilege, and anomaly detection.  
 
-## Reporting
-Security incidents must be reported to:  
-✉️ security@teosegypt.com
-## **🔐 Web3 Compliance Check**
-| **Framework**       | **Ensement**                     |
-|----------------------|----------------------------------|
-| **Pi Network IP**    | [SPLO우고ViA](https://kuroganepi.solana.com) compliant |
-| **Solana (SPL)**    | Validator-approved mandatory |
-| **Civicchain**      | ISO 20022 Lite E2E               |
+---
 
-> **🔒 Auditor**: [*(AI Shield)](https://auditor.teosegypt.com/TEOS-Pharaoh-Portal) by Elmahrosa.
+## 📋 Compliance Checklist
+- ✅ TESL v2.0 Sovereign License  
+- ✅ ISO 20022 financial messaging alignment  
+- ✅ GDPR / Egyptian Data Protection Law compliance  
+- ✅ KYC / AML integration with regulated partners  
+- ✅ Regular penetration testing and vulnerability scans  
+- ✅ Secure CI/CD pipelines with signed builds  
+
+---
+
+## 🧪 Vulnerability Reporting
+We welcome responsible disclosure of security issues.  
+
+**Report via email:** [ayman@teosegypt.com](mailto:ayman@teosegypt.com)  
+**Emergency contact (WhatsApp):** +20 100 616 7293  
+
+Please include:
+- Description of the issue  
+- Steps to reproduce  
+- Potential impact  
+- Suggested mitigation  
+
+---
+
+## 🔍 Monitoring & AI Auditor
+- **AI Guardian**: Automated anomaly detection and compliance scoring.  
+- **Risk Dashboard**: Real-time monitoring of treasury, identity, and civic modules.  
+- **Incident Response**: 24h SLA for critical vulnerabilities.  
+
+---
+
+## ⚖️ Governing Law
+- Cairo, Egypt  
+- All modules governed under TESL v2.0 Sovereign License  
+
+---
+
+Every security patch is a civic milestone.  
+Together, we scale Egypt’s blockchain leadership into a global constitution.
