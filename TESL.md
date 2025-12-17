@@ -1,5 +1,4 @@
-## ⚖️ License & Permissions
-# TEOS Egypt Software License (TESL) — Pharaoh Portal
+# ⚖️ TEOS Egypt Sovereign License (TESL) — Pharaoh Portal
 
 ![License](https://img.shields.io/badge/license-TESL%20%2F%20Non--Commercial-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-Active-blue?style=for-the-badge)
@@ -10,42 +9,35 @@
 
 ---
 
-## 📜 License Statement
-This repository is proprietary. Usage requires **written approval from TEOS Egypt**.  
-Unauthorized use, redistribution, or commercialization is strictly prohibited.
-
----
-
-## 🌱 SDG & Impact Mapping
-See how TEOS Pharaoh Portal modules align with UN Sustainable Development Goals:  
-[SDG Mapping — PDF / Markdown](./docs/SDG-Mapping.md)
-
----
-
 ## 1. Purpose
-The **TEOS Egypt Software License (TESL)** governs all software, smart contracts, AI systems, documentation, and infrastructure published under **Teos‑Pharaoh‑Portal**.  
+The TESL governs all software, smart contracts, AI systems, documentation, and infrastructure published under **TEOS Egypt repos**.  
+This includes:  
+- [Teos-Pharaoh-Portal](https://github.com/Elmahrosa/Teos-Pharaoh-Portal)  
+- [Teos-Bankchain-Mobile](https://github.com/Elmahrosa/Teos-Bankchain-Mobile)  
+- [TEOSNFT dApp](https://github.com/Elmahrosa/TEOSNFT)  
+- [TeosEgypt-AI-Travel-OS](https://github.com/Elmahrosa/TeosEgypt-AI-Travel-OS)  
+- [TEOS Egypt Mobile Mining App](https://github.com/Elmahrosa/TEOS-Egypt-Mobile-Mining-App)
+
 This software exists to support **civic‑first digital infrastructure**, not unrestricted commercial exploitation.
 
 ---
 
 ## 2. Founder Rights
 Full rights to **use, modify, deploy, and monetize** this software are reserved for:  
-- **Ayman Seif / Elmahrosa International**
-
-No restriction applies to the founder for any internal or external use.
+**Ayman Seif / Elmahrosa International**
 
 ---
 
 ## 3. Grant of Limited Rights to Others
-All other parties are granted a **limited, revocable, non‑commercial** license to:
+Others are granted a **limited, revocable, non‑commercial** license to:
 - View and review source code  
-- Fork for evaluation, testing, or research **only**  
+- Fork for evaluation, testing, or research only  
 - Propose improvements via pull requests  
 
 ---
 
-## 4. Restrictions for Others
-Without prior written permission from **Elmahrosa International**, others may **NOT**:
+## 4. Restrictions
+Without prior written permission, others may **NOT**:
 - Use for commercial purposes  
 - Deploy in production or revenue‑generating systems  
 - Resell, sublicense, or rebrand  
@@ -55,8 +47,8 @@ Without prior written permission from **Elmahrosa International**, others may **
 ---
 
 ## 5. Tokens & Digital Assets
-Any references to tokens, points, governance units, or digital assets:
-- Are experimental utility or governance mechanisms  
+References to tokens, points, or governance units:
+- Are experimental utility mechanisms  
 - Do **NOT** represent investment offers or guaranteed returns  
 - Are subject to jurisdictional regulation  
 
@@ -80,7 +72,7 @@ Users are solely responsible for:
 ---
 
 ## 8. Termination
-Violation of this license results in **immediate termination** of rights granted herein.  
+Violation of this license results in **immediate termination** of rights.  
 All usage must cease upon termination.
 
 ---
